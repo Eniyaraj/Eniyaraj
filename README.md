@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eniyaraj
 - 👀 I’m interested in coding
-- 🌱 I’m currently studing in class 7
+- 🌱 I’m currently studing in class 8
 
 <!---
 Eniyaraj/Eniyaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
